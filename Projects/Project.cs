@@ -9,7 +9,7 @@ namespace Projects;
 
 public class Project
 {
-    private int Project_Start_Number = 42; // starting number for project IDs
+    private static int Project_Start_Number = 42; // starting number for project IDs
 
     ///////////////////////////////////////////////////////////////////////////
     //      attributes
